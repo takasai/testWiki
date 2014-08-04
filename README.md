@@ -1,6 +1,6 @@
 testWiki
 ========
 
-test
-
-open
+[subfolder](subfolder/README.md)
+[subfolder](subfolder)
+[[subfolder]]
